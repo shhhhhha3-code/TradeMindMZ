@@ -1,5 +1,0 @@
-cd /workspace/app-dkpfpbala41t
-
-git remote add origin https://github.com/DITT_BRUKERNAVN/TradeMindMZ.git git add -A
-
-git commit -m "Legg til Capacitor-konfig og GitHub Actions APK-build" git push -u origin master
